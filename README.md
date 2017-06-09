@@ -13,3 +13,7 @@ npm install
 ```bash
 npm start
 ```
+
+## 项目截图
+
+![image](https://github.com/shady-xia/color-admin/tree/master/app/assets/img/screenshots/1.png)
